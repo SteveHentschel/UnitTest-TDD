@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\Banker\Banker\bin\Debug\Banker.exe
+c:\users\user\documents\visual studio 2013\Projects\Banker\Banker\bin\Debug\Banker.pdb
+c:\users\user\documents\visual studio 2013\Projects\Banker\Banker\obj\Debug\Banker.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Banker\Banker\obj\Debug\Banker.exe
+c:\users\user\documents\visual studio 2013\Projects\Banker\Banker\obj\Debug\Banker.pdb

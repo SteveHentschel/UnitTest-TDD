@@ -1,0 +1,7 @@
+c:\Users\user\documents\visual studio 2013\Projects\Banker\BankTests\bin\Debug\BankTests.dll
+c:\Users\user\documents\visual studio 2013\Projects\Banker\BankTests\bin\Debug\BankTests.pdb
+c:\Users\user\documents\visual studio 2013\Projects\Banker\BankTests\bin\Debug\Banker.exe
+c:\Users\user\documents\visual studio 2013\Projects\Banker\BankTests\bin\Debug\Banker.pdb
+c:\Users\user\documents\visual studio 2013\Projects\Banker\BankTests\obj\Debug\BankTests.csprojResolveAssemblyReference.cache
+c:\Users\user\documents\visual studio 2013\Projects\Banker\BankTests\obj\Debug\BankTests.dll
+c:\Users\user\documents\visual studio 2013\Projects\Banker\BankTests\obj\Debug\BankTests.pdb
